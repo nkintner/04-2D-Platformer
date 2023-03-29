@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/KintnerNoah_AmbienceLoop1.mp3-0ba671e2252572ac4f9a265131679cf3.mp3str"
+
+[deps]
+
+source_file="res://Assets/KintnerNoah_AmbienceLoop1.mp3"
+dest_files=[ "res://.import/KintnerNoah_AmbienceLoop1.mp3-0ba671e2252572ac4f9a265131679cf3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
